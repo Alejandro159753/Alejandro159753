@@ -44,12 +44,12 @@ I am a computer engineering student, currently finishing my degree. I am expandi
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/chaaanti_/?hl=es">
+<a href= "https://www.instagram.com/alejandro_her159/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Santiagoc885&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Santiagoc885)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Santiagoc885&theme=material-palenight)](https://github.com/Santiagoc885)
+[![](https://github-readme-stats.vercel.app/api?username=Alejandro159753&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Alejandro159753)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Alejandro159753&theme=material-palenight)](https://github.com/Alejandro159753)
 </div>
