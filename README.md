@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Alejandro Henrnadez Ramirez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=400px alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" width=400px alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N2enY4eXhtMTZnMWV2MzJpZ2piM3BlMDAyMTVpY2U4ejk4NnY2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***About me***
@@ -11,7 +11,7 @@ I am a computer engineering student, currently finishing my degree. I am expandi
 - 🔎 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and ⚽ playing soccer
-- 📫 Reach out to me at: <a href="romansantiago.ch@gmail.com">romansantiago.ch@gmail.com</a>
+- 📫 Reach out to me at: <a href="romansantiago.ch@gmail.com">Alejomediatec@gmail.com</a>
 
 ## My Skills Include
 
